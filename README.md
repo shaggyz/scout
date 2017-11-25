@@ -1,6 +1,6 @@
 # Scout
 
-A simple Network scanner for GNU/Linux used as frontend for many network scanning tools like: nmap, nbtscan, smbclient, etc.. This is work in progress. Features:
+A simple Network scanner experiment for GNU/Linux used as frontend for many network scanning tools like: nmap, nbtscan, smbclient, etc.. This is work in progress, in a very very slow progress, just for fun. Features:
 
 + Host discover with SMB protocol
 + SMB unprotected shares scanner
